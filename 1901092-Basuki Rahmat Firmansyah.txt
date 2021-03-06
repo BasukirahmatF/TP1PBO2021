@@ -1,0 +1,18 @@
+Saya Basuki Rahmat Firmansyah(1901092) mengerjakan TP1 dalam 
+mata kuliah DPBO untuk keberkahan Nya maka 
+saya tidak melakukan kecurangan seperti yang telah 
+di-spesifikasika. Aamiin. 
+
+-Login
+-Menu
+-Detail Barang
+
+Kesulitan :
+  
+ -Pada bagian icon logo ,menggunakan panel jadi ketika logo di tempatkan menjadi tidak sesuai 
+ -Pada membuat list ,sempat mengalami erorr berkali-kali
+ -Saat membuat button beli dan menuju detail barang
+
+Hal baru yg Dipelajari:
+
+ -
